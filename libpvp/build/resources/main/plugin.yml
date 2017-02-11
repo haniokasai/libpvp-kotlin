@@ -1,0 +1,13 @@
+name: libPVP
+main: com.haniokasai.nukkitkt.libPVP.Main
+version: 0.0.1
+author: haniokasai
+api: ["1.0.0"]
+
+commands:
+   ip:
+      description: ipcheck
+      usage: /ip [player]
+      permission: tutorialplugin.ip
+      permission-message: You don't have <permission>
+      default: true
