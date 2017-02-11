@@ -1,5 +1,5 @@
 # libpvp-kotlin
-pvp library  for nukkit written in Kotolin
+pvp library  for nukkit written in Kotlin
 
 
 
