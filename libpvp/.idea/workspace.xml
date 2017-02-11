@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81f3cf66-0057-40ef-81a4-21a872cbc146" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="87664713-50bc-42de-86b9-041d3143e173" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,48 +28,80 @@
     </system>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="libPVP" />
+    <favorites_list name="libpvp" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="187">
+              <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ngw.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/lang/ngw.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql/base.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ngw.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql/ngw.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExplodeSound.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/ExplodeSound.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <element signature="e#83#365#0" expanded="true" />
+                <element signature="e#89#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="signcommand.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/signcommand.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="e#46#407#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -338,11 +369,6 @@
         </entry>
       </map>
     </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="2973619657266" />
-      </map>
-    </option>
     <option name="projectBuildClasspath">
       <map>
         <entry key="$PROJECT_DIR$">
@@ -484,9 +510,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/ExplodeSound.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/signcommand.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/Main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/lang/ngw.kt" />
       </list>
     </option>
   </component>
@@ -510,6 +537,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -519,7 +548,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
+              <option name="myItemId" value="libpvp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -529,7 +558,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
+              <option name="myItemId" value="libpvp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -543,7 +572,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
+              <option name="myItemId" value="libpvp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -554,10 +583,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -565,7 +590,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
+              <option name="myItemId" value="libpvp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -583,57 +608,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="libPVP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libPVP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gradle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wrapper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="libPVP">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -740,15 +714,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -860,22 +825,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81f3cf66-0057-40ef-81a4-21a872cbc146" name="Default" comment="" />
-      <created>1486809771903</created>
+      <changelist id="87664713-50bc-42de-86b9-041d3143e173" name="Default" comment="" />
+      <created>1486810356479</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1486809771903</updated>
+      <updated>1486810356479</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1284" height="991" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -887,7 +851,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -910,42 +874,64 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="26" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/ExplodeSound.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#89#211#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/tools/signcommand.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#46#407#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="e#83#365#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/lang/ngw.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql/base.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/haniokasai/nukkitkt/libPVP/mysql/ngw.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

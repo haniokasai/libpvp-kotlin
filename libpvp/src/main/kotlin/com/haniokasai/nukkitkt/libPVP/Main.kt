@@ -12,6 +12,7 @@ import cn.nukkit.utils.TextFormat
 import cn.nukkit.Player
 import cn.nukkit.event.EventHandler
 import cn.nukkit.event.player.PlayerInteractEvent
+import com.haniokasai.nukkitkt.libPVP.tools.signcommand
 
 /**
  * Created by hani on 2017/01/29.
@@ -20,8 +21,9 @@ class Main : PluginBase() , Listener {
 
     override fun onEnable() {
         // Plugin startup logic
-        logger.info("Hello Kotlin!")
+        logger.info("Hello libPVP!")
         server.getPluginManager().registerEvents(this, this);//必須
+        server.getPluginManager().registerEvents(signcommand(this), this);
     }
 
     //プレイヤーが触ったブロックのIDがわかります。
